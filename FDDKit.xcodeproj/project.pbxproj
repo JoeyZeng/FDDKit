@@ -212,6 +212,7 @@
 			isa = PBXGroup;
 			children = (
 				84D894381A1AE28200184E72 /* FDDKit.h */,
+				84D8955B1A1C9A4600184E72 /* Tools */,
 				84D894B31A1AF4C100184E72 /* Macro */,
 				84D894AA1A1AF3A800184E72 /* Support */,
 				84D894891A1AF31900184E72 /* UI */,
@@ -367,6 +368,13 @@
 				84D895011A1AFA3100184E72 /* NYXImagesKit.h */,
 			);
 			path = Helper;
+			sourceTree = "<group>";
+		};
+		84D8955B1A1C9A4600184E72 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -758,6 +766,7 @@
 				84D8944B1A1AE28200184E72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84D8944C1A1AE28200184E72 /* Build configuration list for PBXNativeTarget "FDDKitTests" */ = {
 			isa = XCConfigurationList;
@@ -766,6 +775,7 @@
 				84D8944E1A1AE28200184E72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84D894501A1AE2DE00184E72 /* Build configuration list for PBXAggregateTarget "ExeFDDKit" */ = {
 			isa = XCConfigurationList;
@@ -774,6 +784,7 @@
 				84D894521A1AE2DE00184E72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

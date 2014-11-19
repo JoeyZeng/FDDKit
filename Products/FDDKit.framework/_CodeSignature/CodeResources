@@ -140,10 +140,6 @@
 		<data>
 		0yKIrXLzGy/1YFGDsp2et9gfOy4=
 		</data>
-		<key>Headers/testIV.h</key>
-		<data>
-		ge595hcWfOfxR77DjyhcpyCJrlU=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		A1mcW3Z2PVQcAUX0RwYmEkmizuc=
@@ -151,10 +147,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		kjJR8lWQHA3a/y8NR2ZI8uap2LY=
-		</data>
-		<key>gujia_press@2x.png</key>
-		<data>
-		lG4lNkRNygJce69nmG1gymvrUuU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -295,17 +287,9 @@
 		<data>
 		0yKIrXLzGy/1YFGDsp2et9gfOy4=
 		</data>
-		<key>Headers/testIV.h</key>
-		<data>
-		ge595hcWfOfxR77DjyhcpyCJrlU=
-		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		kjJR8lWQHA3a/y8NR2ZI8uap2LY=
-		</data>
-		<key>gujia_press@2x.png</key>
-		<data>
-		lG4lNkRNygJce69nmG1gymvrUuU=
 		</data>
 	</dict>
 	<key>rules</key>
